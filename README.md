@@ -10,16 +10,16 @@ Ticker: EVS
 
 Evarians [EVS] is an anonymous, untraceable, energy efficient, Proof-of-Work (New Tribus Algorithm) and Proof-of-Stake cryptocurrency.
 
-660,000,000 EVS will be created in about 3 years during the PoW phase. Evarians has a 10% Premine for bounty
+120,000,000 EVS will be created in about ~11 years during the PoW phase. Evarians has a ~25% Premine for bounty
 
 Specifications
 ==========================
-* Total number of coins: 660,000,000 EVS
-* First 1,000,000 blocks: 300 EVS/Block
-* nHeight <= 2,000,000 blocks: 200 EVS/Block
-* nHeight <= 3,000,000 blocks: 100 EVS/Block
-* Ideal block time: 30 seconds
-* Stake interest: 6% annual static inflation
+* Total number of coins: 120,000,000 EVS
+* First 1,000,000 blocks: 35 EVS/Block
+* nHeight <= 2,000,000 blocks: 30 EVS/Block
+* nHeight <= 3,000,000 blocks: 25 EVS/Block
+* Ideal block time: 120 seconds
+* Stake interest: 5% annual static inflation
 * Confirmations: 10 blocks
 * Maturity: 30 blocks 
 * Min stake age: 8 hours
@@ -27,16 +27,12 @@ Specifications
 Technology
 ==========================
 * Stealth addresses
-* Encrypted Messaging
-* Fast 30 Second Block Times
+* 120 Second Block Times
 * New Tribus PoW Algorithm 
 * Tribus PoW/PoS Hybrid
 * Full decentralization
 
-LINKS
-==========================
-* Official Website(http://vegaco.in)
-* Official Forums(http://forum.vegaco.in)
+
 
 Development process
 ===========================
